@@ -1,3 +1,5 @@
-Filemele mele preferate 123
+Filemele mele preferate:
 Avatar
 Gentelmens
+Batman
+Superman
